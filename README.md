@@ -1,6 +1,6 @@
 # 회의록
 
-Mash-Up 리액트 팀 회의록
+Mash-Up 웹 프론트엔드 팀 회의록
 
 <details>
 <summary>7기</summary>
